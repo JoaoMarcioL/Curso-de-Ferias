@@ -1,7 +1,10 @@
 s
 s
 s44444
+<<<<<<< HEAD
 s
+=======
+>>>>>>> 48d5fe20ceb0f6d046c54b1403de9f8a8c8d1a7b
 s
 s
 arquvio1 JARASo2222
